@@ -1,5 +1,5 @@
 {
-    "name": "edwin/php-bitcrypt",
+    "name": "edwinlll/phpbitcrypt",
     "description": "bitcrypt sdk",
     "type": "library",
     "license": "MIT",
