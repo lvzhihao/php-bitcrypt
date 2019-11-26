@@ -5,7 +5,7 @@
 composer require edwinlll/phpbitcrypt
 ```
 
-# 3. Example
+# 2. Example
 ```
 use GuzzleHttp\Client;
 use Edwinlll\PhpBitcrypt\Rsa;
